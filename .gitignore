@@ -1,0 +1,52 @@
+# Compiled class file
+*.class
+*.log
+/.classpath
+/.project
+/target/*
+/bin/*
+
+# Package Files #
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+### Eclipse ###
+*.pydevproject
+.metadata
+.gradle
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# PDT-specific
+.buildpath
+
+# TeXlipse plugin
+.texlipse
+
+# IntelliJ
+*.iml
+.idea/
+out/
+.idea_modules/
+
+.vagrant/
+.springBeans
