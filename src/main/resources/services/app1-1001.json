@@ -1,7 +1,7 @@
 {
   "@class" : "org.apereo.cas.services.RegexRegisteredService",
-  "serviceId" : "http://localhost:8070",
+  "serviceId" : "http://app1.cas.com:8060",
   "name" : "app1",
-  "id" : 10000001,
+  "id" : 1001,
   "evaluationOrder" : 10000
 }
